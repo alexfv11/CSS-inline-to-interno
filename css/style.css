@@ -1,4 +1,3 @@
-<style>
 /*SELECTOR DE ELEMENTO. Selecciona a todos los elementos párrafos y les aplica los siguientes estilos:*/
 
 
@@ -55,5 +54,3 @@ b {
 ol li p {
     background-color: purple;
 }
-
-</style>
